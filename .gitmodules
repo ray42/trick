@@ -1,0 +1,3 @@
+[submodule "gitplay"]
+	path = gitplay
+	url = git@github.com:ray42/gitplay.git
