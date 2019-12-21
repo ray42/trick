@@ -1,3 +1,6 @@
 [submodule "gitplay"]
 	path = gitplay
 	url = git@github.com:ray42/gitplay.git
+[submodule "cpp"]
+	path = cpp
+	url = git@github.com:ray42/cpp.git
